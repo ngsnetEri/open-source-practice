@@ -2983,7 +2983,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Zehor Lahlah](https://github.com/zehor-l)
   - [ziphozenkosi ncayiyana](https://github.com/Ziphozenkosimthombe)
   - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
-
+  - [Ngsnet G Hawarya](https://github.com/ngsnetEri)
 - ### **0-9**
 
   - [6dayspizza](https://github.com/6dayspizza)
@@ -2995,3 +2995,4 @@ A GitHub conflict is when people make changes to the same area or line in a file
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
 
 If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this. Read our [Code of Conduct](https://github.com/EddieHubCommunity/open-source-practice/blob/main/CODE_OF_CONDUCT.md).
+
